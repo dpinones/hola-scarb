@@ -1,2 +1,5 @@
 [crate_roots]
-hola_scarb = "src"
+hola_scarb = "/home/dami/Documents/rust/clase/hola_scarb/src"
+quaireaux_math = "/home/dami/.cache/scarb/registry/git/checkouts/quaireaux-I8UTN6GUOAHIC/4c93251/quaireaux/math/src"
+quaireaux_utils = "/home/dami/.cache/scarb/registry/git/checkouts/quaireaux-I8UTN6GUOAHIC/4c93251/quaireaux/utils/src"
+
